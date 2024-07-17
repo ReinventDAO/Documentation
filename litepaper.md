@@ -156,21 +156,159 @@ Our Mission is to empower talent and teams around the world to deliver impact th
 
 
 
+## ReinventDAO Stack <a name="dao-stack"></a>
+
+### Chain - EVM <a name="evm"></a>
+Reinvent DAO is based on an EVM-compatible for L2 blockchain. 
+The reason why we chose to build on an EVM-compatible chain is because such a choice would provide familiar tools, libraries and language like Solidity for us to build the Reinvent DAO stack. 
+
+EVM chains are intended to solve Ethereum’s scalability issues, offering faster and more affordable transactions. Ethereum's limited throughput, measured in transactions per second (TPS), often leads to network congestion and high transaction fees during periods of heavy usage. 
+
+Deploying on an EVM-compatible chain gives access to a wider audience of both developers and users who are already familiar with existing Ethereum applications and tools and makes the onboarding process easier.
+### Storage - IPFS <a name="ipfs"></a>
+Most of the Know-How Assets (toolkits) are stored encrypted on IPFS as a way to protect from unauthorized access, and we ensure the accessibility of the content is protected for the Licensor (Creator).
+ 
+The IPFS hash(URL) is then stored on the blockchain for retrieval purposes. 
+
+### DAO Structure <a name="structure"></a>
+
+DAO Lifecycle <a name="lifecycle"></a>
+
+In Reinvent DAO, we are running three DAO lifecycle stages. The decentralised organisational structure of a DAO will evolve from their structure and operations in stages. 
+
+
+### Smart Contract for Know-How as IP Asset Tokenisation <a name="sc"></a>
+This Litepaper explores a novel smart contract solution for tokenising Know-How as Intellectual Property (IP) assets. Here's how the solution will facilitate efficient and secure ownership.
+
+#### Know-How as IP Tokenisation <a name="know-how-ip"></a> 
+Creators submit detailed descriptions of the Know-How as IP asset, including Document Title, Collection Type, Asset Type, Author and others. 
+
+IP Assets are the foundational RWA we’re building on our Composable Know-How Marketplace (CKM). 
+Each IP Asset is an on-chain ERC-721 NFT (representing an IP), with ownership assigned to the creator or collaborator. This globally unique record as the IP Asset, and the original ERC-721 as the IP.
+
+**Later Phase**
+
+Licensing Terms will be based on licensing terms (usage rights, terms to lease, etc). Each NFT contains Know-How as IP Asset, which will represent a pre-defined Royalty stake in the IP when it’s minted, along with associated rights and terms. 
+
+#### Know-How as IP Leasing <a name="leasing"></a> 
+
+**Proportional Share of Royalties:**
+
+When the IP is used (e.g. licensed, copyright used in a product), Know-How creators automatically receive a portion of the resulting revenue based on their NFT ownership.
+
+The Smart Contract can be programmed to automatically distribute IP Royalties (in % of the IP Monetisation) or other benefits (e.g., licensing fees) to the Creators or Sponsors,  based on the pre-defined rules.
+
+This ensures efficient and transparent revenue sharing, incentivizing investment in the IP asset.
+
+#### Security & Compliance <a name="compliance"></a>
+The Smart Contracts are built with robust security features like access controls and encryption to prevent unauthorized access and ensure data integrity.
+
+The Smart Contract can be designed to integrate with relevant regulatory frameworks, fostering trust amongst our community and investor confidence.
+
+#### DAO Smart Contract Solution (Later Phase) <a name="sc-solution"></a>
+
+As we progress towards decentralisation, the Smart Contract will be triggered to automate the Sub DAO and the Parent DAO operations. 
+
+##### Parent DAO  <a name="parent-dao"></a>
+The Parent DAO is the one that handles all operations within the DAO such as token Airdrops, members' reputation, creation of new Sub DAOs, and adding and removing members of the DAO. The Parent DAO contract will be deployed on the blockchain. It will also be responsible for setting the DAO Constitutions, Terms & Conditions for members, treasury management, liquidity pool, funds distribution, and voting.  
+
+##### Sub-DAOs <a name="sub-dao"></a>
+
+Every sub-DAO has its own Smart Contract (SC) that will communicate with the parentDAO SC.
+A subDAO is part of Reinvent DAO, meaning its members must follow the Constitutions and Operational Rules set by the parentDAO. 
+
+Once the DAO is in a fully decentralised lifecycle stage and SC has been executed to automate the operations, a subDAO can also decide to resolve and thus its treasury will be distributed to the parentDAO or spin-out and become its own independent DAO.
+
+### Reinvent DAO Governance (Later Phase) <a name="governance"></a>
+Reinvent DAO utilises $REIV as on selected decision-making processes related to the operations of the DAO once the business model is established and we start going into decentralisation or ‘DAO in Lifecycle’ transition. 
+
+The members will be given voting rights based on active participation, Reputational Score and active activities contribution to Reinvent DAO’s ecosystem. 
+
+Early Adopters (Early Creators/Consumers) will be incentivised now in REIV Points upon early GTM strategy to onboard early users and assets (Know-How as IP Assets) as Creators and Consumers.
+
+More details at a later stage in the Full Whitepaper version.
+### Reputation Score Model <a name="reputation"></a>
+Each Reinvent DAO member will have a reputation score associated with their Decentralised Identity (DID). This reputation score will be calculated based on on two criteria as follows:
+
+1. *Initial reputation score:* This value of the initial reputation score is defined based on the previous experience the consultants have from the creator’s LinkedIn profile, especially the member’s Seniority or number of years of experience. For example, someone with 10 years of experience will have a higher score when they first join compared to someone with 1 or 2 years of experience. 
+
+2. *Contribution score:* This value is defined by the contribution of each consultant as part of the DAO, which means someone who contributed a lot as part of the DAO would have a higher reputation than someone who contributed less or didn’t contribute at all. We will assign weights to different types of contributions based on their importance.
+For each member, calculate the contribution score using the weighted sum of their activities.
+
+#### Reputation Calculation <a name="calculation"></a>
+Sum the initial reputation and the contribution score  to get the total reputation 𝑅
+Reinvent DAO leverages AI to assess and visualize the engagement and impact of DAO members based on their activities and contributions
+
+### Algorithm for IP Valuation <a name="valuation"></a>
+Reinvent DAO is developing an AI-driven algorithm to provide a valuation of IP as intangible assets within Reinvent DAO's Composable Know-how Marketplace, enhancing the reliability and precision of a range of valuations for IP Assets. 
+
+The valuation criteria may include internal and external data, such as the members' reputation as creators in our ecosystem,  benchmarking on Future IP Royalty benefits and many others on the licensing from the consumer end. 
+
+By combining and analyzing internal and external data, the algorithm can comprehensively evaluate the Know How as IP Asset within the Reinvent DAO ecosystem. This data includes market trends indicating the popularity and demand for similar Know-How asset types, industry benchmarks providing performance metrics from similar organisations, competitor analysis detailing offerings and performance of competing Know-How…etc.   
+
+### $REIV Tokenomics & Funding <a name="tokenomics"></a>
+
+The $REIV token will be launched to foster a sustainable and
+decentralized ecosystem for the Knowledge Capital and IP industry. 
+
+It will serve as the core REIV Access token and medium of exchange on On-Chain IP licensing, allowing users to access exclusive Emerging Tech Know-How Secret Recipe, be whitelisted for exclusive Collection pre-launch on the REIV CKM, utilise for core subscription, thus building a “proof of contribution” model to get incentivised based on rewards.
+#### $REIV Token Total Supply <a name="total-supply"></a>
+
+Reinvent DAO ecosystem runs on a utility token, $REIV, which is capped at a maximum supply of 1,000,000,000 tokens. Some tokens are reserved for ecosystem development, early adopters and development funds.
+
+$REIV can be used for the following:
+* **Subscription:** Users can pay a monthly subscription to gain access to
+REIV CKM. Users can pay in $REIV, or, $USDT, US Dollars, which will
+then be converted to $REIV.
+
+* **Know-How as IP Asset Leasing:** Fans can use $REIV to lease excluding Emerging Teh secret recipes through REIV CKM.
+* **Staking and Rewards:** Creators can stake $REIV to receive rewards in the form of
+platform incentives and access to premier Know-How before publicly available for the public on MAINNET. 
+* **Collection Sponsorship:** $REIV can be used to support the creation of Know-How Collections through pre-fund capital to the early creators. In return, sponsors can receive % in IP Royalty as an exchange of the upfront capital. 
+* **Bidding:** $REIV can be used to bid from the Sponsors to get the early allocation slot to sponsor the IP Collection pre-launch. 
+* **Advertisement placement:** $REIV can be used to place advertisements from partners/corporates and also the ability to do product offerings/services in REIV community.
+* **Rewards:** $REIV holders will be eligible for rewards, such as access to events,
+masterclasses, special Partner events and others, 
+
+#### Token Burn Mechanism <a name="burn"></a>
+To ensure the long-term value of $REIV, a percentage of transaction fees generated on the platform will be used to permanently remove $REIV tokens from circulation through periodic burns. This fosters a sustainable supply of $REIV and incentivizes its long-term use.
+
+#### Allocation of REIV Points <a name="points"></a>
+All members who signed up to our platform as Early Adopter on Limited Campaign period AND have active participation are entitled to be incentivised with REIV Points.
+The Creators will be incentivized with REIV Points as the Know-How been tokenised and APPROVED on the Marketplace. 
+
+Members who refers Members will also be incentivised with REIV Points upon member sign up, and ability to get reward with high value REIV Points upon creation of their Know-How, that is being tokenised. 
+
+At a later phase, REIV Points can be converted into digital currencies once the $REIV Token Launch occurs.
+
+#### Token Allocation $REIV <a name="allocation"></a>
+
+REIV ERC-20 tokens minted will automatically be allocated to REIV’s Liquidity Pool. 
+The monetisation paid by the consumers to subscribe to the Know-How, paid in Fiat ($USD) or Stablecoin (USDC) or $REIV token will be paid towards the REIV Liquidity Pool.
+An allocated ratio of 70:30 between the Asset Owner and CKM platform will be allocated according to the leasing fees of the IP Assets. 
+
+### Reinvent DAO Timeline <a name="timeline"></a>
 
 
 
+## Conclusion <a name="conclusion"></a>
+
+Reinvent DAO isn't just disrupting the Knowledge Economy, it's revolutionizing it. We're unlocking the hidden potential of human expertise by transforming Know-How into tradable IP assets (RWAs). This opens up a $4.8 trillion opportunity in the currently illiquid tokenization space - welcome to the new world of self-sovereignty and tokenisation is a new way of paying your skills. 
+
+**The Future of Work is Here**
+
+The rise of AI threatens traditional jobs, but Reinvent DAO empowers individuals and SMEs. We leverage the power of network effects to create a groundbreaking asset class in the IP derivatives world: asset-backed tokens, thus providing a new way of IP Valuation on the intangible assets of the decentralised ownership professional world. 
+
+These tokens represent the true value of your Know-How, finally recognizing it as the powerful Intellectual Property (IP) it is.
 
 
+**Building a Collaborative Knowledge Ecosystem**
+
+Reinvent DAO fosters a collaborative environment where knowledge capital thrives. We transform intangible assets into tradable ones, allowing professional creators to maximise their impact. Through strategic partnerships, we're building a decentralized IP Marketplace (CKM) that empowers creators, consumers, and sponsors alike.
+
+Join the Reinvent DAO revolution and unlock the true value of your Know-how in the Web3 era. Create liquidity, expand your reach, and contribute to a future where the new internet-era Emerging Tech knowledge is in high demand…. This makes us more progressive to improve our business and daily lives. 
 
 
-
-
-
-
-## ReinventDAO Stack
-
-
-## Conclusion
 
 
 
