@@ -12,7 +12,7 @@ Litepaper Version 1.3
 1. [Introduction](#introduction) </br>
   1.1. [ReinventDAO: Own Your Expertise, Unlock its Value in a Trillion-Dollar Market](#unlock) </br>
   1.2. [The Challenge: Fragmented Knowledge Market](#challenge) </br> 
-  1.3. [The ReinventDAO Solution: The Composable Know-how Marketplace (CKM)](#solution) </br>
+  1.3. [The ReinventDAO Solution: Programmable Know-How (PKH)](#solution) </br>
   1.4. [About Types in Traditional Know-How: Toolkits, Frameworks, Blueprints as Proprietary Assets](#framework) </br>
   1.5. [Market Opportunity: Innovation in a Rapidly Evolving World](#market) </br>
   1.6. [Example: Helping Businesses to integrate Emerging Tech as Know-How, turning it into a Tradeable IP Asset](#example) </br>
@@ -54,7 +54,7 @@ Litepaper Version 1.3
 
 **Empowering Individuals in a Knowledge-Driven Economy**
 
-The world is undergoing a significant shift. Knowledge and expertise are becoming the most valuable assets for individuals and businesses. Reinvent DAO introduces the Composable Know-How Marketplace (CKM), a groundbreaking platform that empowers you to take control of your Knowledge Capital and transform it into a tradable intangible asset as Intellectual Property (IP) in a new internet era market.
+The world is undergoing a significant shift. Knowledge and expertise are becoming the most valuable assets for individuals and businesses. Reinvent DAO introduces the Programmable Know-How (PKH), a groundbreaking platform that empowers you to take control of your Knowledge Capital and transform it into a tradable intangible asset as Intellectual Property (IP) in a new internet era market.
 
 **The Untapped Potential of Knowledge Capital**
 
@@ -70,13 +70,13 @@ Whilst in Corporations; facing economic uncertainty, are hesitant to hire full-t
 
 The result? A fragmented marketplace where everyone loses. Professional White-Collar Individuals can't capitalize on their expertise, and businesses miss out on the very trendy know-how they need to thrive, especially in the critical field of Emerging Tech which is shaping the new internet economy in Web3.0 or Artificial intelligence (AI). This is where Reinvent DAO steps in, offering a new way forward.
 
-### The Reinvent DAO Solution: The Composable Know-how Marketplace (CKM) <a name="solution"></a>
-Reinvent DAO’s Composable Know-How Marketplace (CKM) empowers individuals by introducing Know-How as IP Assets.These Know-How as IP Assets represent white-collar professional creators' unique skills or know-how base and act as the building blocks within the marketplace. Each Know-How is composed of:
+### The Reinvent DAO Solution: The Programmable Know-How (PKH) <a name="solution"></a>
+Reinvent DAO’s Programmable Know-How (PKH) empowers individuals by introducing Know-How as IP Assets.These Know-How as IP Assets represent white-collar professional creators' unique skills or know-how base and act as the building blocks within the marketplace. Each Know-How is composed of:
 
 * **Pre-Fund from a Collection Sponsor:** Each Collection will have a Fund Sponsor to pre-fund the collection of the Emerging Tech IP Assets in exchange for the access to participate in Future performance of the IP assets collections.
 * **Know-How as IP Asset:** Representing the Know-How as IP Asset itself and can be linked to existing credentials or newly minted for specific asset class per Collections. I.e. Digital Asset Management with multiple asset classes across Strategy/Risk/Marketing/Design/Operational.
 * **Reputation Score on Profile:** Provides information about the creator's experience, certifications, and project history, allowing potential collaborators or clients to assess their reputation from previous and current contributions in the Reinvent DAO ecosystem.
-* **Leasing Know-How:** The CKM utilizes various modules (Licensing and Royalty turned into % of Royalty between Creators, Consumers, and Sponsors)
+* **Leasing Know-How:** The PKH utilizes various modules (Licensing and Royalty turned into % of Royalty between Creators, Consumers, and Sponsors)
 
 ### About Types in Traditional Know-How: Toolkits, Frameworks, Blueprints as Proprietary Assets <a name="framework"></a>
 Toolkits, Best Practices, Frameworks, Blueprints, Research, and Methodologies are indispensable for Consultants in Big Firms as they promote efficiency, consistency, quality, collaboration, risk mitigation, brand reputation, and scalability. These resources empower consultants to leverage the collective knowledge and expertise within their own niche firm, deliver high-value solutions, and meet client expectations in a competitive consulting global landscape.
@@ -95,9 +95,9 @@ The workforce in 2024 and the future is shifting. The rise of the gig economy, p
 This confluence of factors presents a compelling market opportunity. With the burgeoning freelance workforce and the vast, untapped potential of knowledge capital, a new approach to knowledge sharing is urgently needed. This is the driving force behind Reinvent DAO, a transformative solution to provide more accessibility for a knowledge-driven future.
 
 ### Example: Helping Businesses to Integrate Emerging Tech as Know-How, turning it into a Tradeable IP Asset <a name="example"></a>
-Imagine you're an Independent Consultant or SME Consulting Firm with in-depth expertise in Digital Assets, especially in Payments integration with Stablecoins into businesses. Traditionally, finding clients and managing projects can be cumbersome. With Reinvent DAO’s CKM:
+Imagine you're an Independent Consultant or SME Consulting Firm with in-depth expertise in Digital Assets, especially in Payments integration with Stablecoins into businesses. Traditionally, finding clients and managing projects can be cumbersome. With Reinvent DAO’s PKH:
 
-* Create a Knowledge IP Asset on Reinvent DAO’s CKM to highlight your expertise in Stablecoin subject matter, across -  Strategy, Risk Management, Design, and Commercialization.
+* Create a Knowledge IP Asset on Reinvent DAO’s PKH to highlight your expertise in Stablecoin subject matter, across -  Strategy, Risk Management, Design, and Commercialization.
 * Get the Collections’ Sponsors to provide upfront capital: As the Sponsor provides upfront capital for the creators(you), the user gets % of the Royalty of the IP Assets of a collection upon the derivatives transactions from the IP Assets. 
 * Collaborate with other creators on Reinvent DAO’s Know-How Marketplace who offer complementary skills to provide comprehensive solutions.
 
@@ -140,7 +140,7 @@ Our Mission is to empower talent and teams around the world to deliver impact th
 
    * $REIV Buy/Sell Transaction Fees.
    * Staking & Bidding of $REIV to Co-create and Sponsor the IP Assets Collections.
-   * $REIV as membership access fee (token-gated) to our Composable Know-How Marketplace.
+   * $REIV as membership access fee (token-gated) to our Programmable Know-How.
 
 4. **Personalized Generative-AI Content Assistant (Later Phase)**
 
@@ -183,7 +183,7 @@ This Litepaper explores a novel smart contract solution for tokenising Know-How 
 #### Know-How as IP Tokenisation <a name="know-how-ip"></a> 
 Creators submit detailed descriptions of the Know-How as IP asset, including Document Title, Collection Type, Asset Type, Author and others. 
 
-IP Assets are the foundational RWA we’re building on our Composable Know-How Marketplace (CKM). 
+IP Assets are the foundational RWA we’re building on our Programmable Know-How (PKH). 
 Each IP Asset is an on-chain ERC-721 NFT (representing an IP), with ownership assigned to the creator or collaborator. This globally unique record as the IP Asset, and the original ERC-721 as the IP.
 
 **Later Phase**
@@ -240,7 +240,7 @@ Sum the initial reputation and the contribution score  to get the total reputati
 Reinvent DAO leverages AI to assess and visualize the engagement and impact of DAO members based on their activities and contributions
 
 ### Algorithm for IP Valuation <a name="valuation"></a>
-Reinvent DAO is developing an AI-driven algorithm to provide a valuation of IP as intangible assets within Reinvent DAO's Composable Know-how Marketplace, enhancing the reliability and precision of a range of valuations for IP Assets. 
+Reinvent DAO is developing an AI-driven algorithm to provide a valuation of IP as intangible assets within Reinvent DAO's Programmable Know-How, enhancing the reliability and precision of a range of valuations for IP Assets. 
 
 The valuation criteria may include internal and external data, such as the members' reputation as creators in our ecosystem,  benchmarking on Future IP Royalty benefits and many others on the licensing from the consumer end. 
 
@@ -251,17 +251,17 @@ By combining and analyzing internal and external data, the algorithm can compreh
 The $REIV token will be launched to foster a sustainable and
 decentralized ecosystem for the Knowledge Capital and IP industry. 
 
-It will serve as the core REIV Access token and medium of exchange on On-Chain IP licensing, allowing users to access exclusive Emerging Tech Know-How Secret Recipe, be whitelisted for exclusive Collection pre-launch on the REIV CKM, utilise for core subscription, thus building a “proof of contribution” model to get incentivised based on rewards.
+It will serve as the core REIV Access token and medium of exchange on On-Chain IP licensing, allowing users to access exclusive Emerging Tech Know-How Secret Recipe, be whitelisted for exclusive Collection pre-launch on the REIV PKH, utilise for core subscription, thus building a “proof of contribution” model to get incentivised based on rewards.
 #### $REIV Token Total Supply <a name="total-supply"></a>
 
 Reinvent DAO ecosystem runs on a utility token, $REIV, which is capped at a maximum supply of 1,000,000,000 tokens. Some tokens are reserved for ecosystem development, early adopters and development funds.
 
 $REIV can be used for the following:
 * **Subscription:** Users can pay a monthly subscription to gain access to
-REIV CKM. Users can pay in $REIV, or, $USDT, US Dollars, which will
+REIV PKH. Users can pay in $REIV, or, $USDT, US Dollars, which will
 then be converted to $REIV.
 
-* **Know-How as IP Asset Leasing:** Fans can use $REIV to lease excluding Emerging Teh secret recipes through REIV CKM.
+* **Know-How as IP Asset Leasing:** Fans can use $REIV to lease excluding Emerging Teh secret recipes through REIV PKH.
 * **Staking and Rewards:** Creators can stake $REIV to receive rewards in the form of
 platform incentives and access to premier Know-How before publicly available for the public on MAINNET. 
 * **Collection Sponsorship:** $REIV can be used to support the creation of Know-How Collections through pre-fund capital to the early creators. In return, sponsors can receive % in IP Royalty as an exchange of the upfront capital. 
@@ -285,7 +285,7 @@ At a later phase, REIV Points can be converted into digital currencies once the 
 
 REIV ERC-20 tokens minted will automatically be allocated to REIV’s Liquidity Pool. 
 The monetisation paid by the consumers to subscribe to the Know-How, paid in Fiat ($USD) or Stablecoin (USDC) or $REIV token will be paid towards the REIV Liquidity Pool.
-An allocated ratio of 70:30 between the Asset Owner and CKM platform will be allocated according to the leasing fees of the IP Assets. 
+An allocated ratio of 70:30 between the Asset Owner and PKH platform will be allocated according to the leasing fees of the IP Assets. 
 
 ### Reinvent DAO Timeline <a name="timeline"></a>
 
@@ -304,7 +304,7 @@ These tokens represent the true value of your Know-How, finally recognizing it a
 
 **Building a Collaborative Knowledge Ecosystem**
 
-Reinvent DAO fosters a collaborative environment where knowledge capital thrives. We transform intangible assets into tradable ones, allowing professional creators to maximise their impact. Through strategic partnerships, we're building a decentralized IP Marketplace (CKM) that empowers creators, consumers, and sponsors alike.
+Reinvent DAO fosters a collaborative environment where knowledge capital thrives. We transform intangible assets into tradable ones, allowing professional creators to maximise their impact. Through strategic partnerships, we're building a decentralized IP Marketplace (PKH) that empowers creators, consumers, and sponsors alike.
 
 Join the Reinvent DAO revolution and unlock the true value of your Know-how in the Web3 era. Create liquidity, expand your reach, and contribute to a future where the new internet-era Emerging Tech knowledge is in high demand…. This makes us more progressive to improve our business and daily lives. 
 
