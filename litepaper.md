@@ -289,6 +289,23 @@ An allocated ratio of 70:30 between the Asset Owner and PKH platform will be all
 
 ### Reinvent DAO Timeline <a name="timeline"></a>
 
+Q3 2024: - Asset Tokenization begins for Programmable Know-How
+         - Ecosystem Partnerships established
+         - Bringing onboard Creators 
+         - Workshops & Educational sessions about Programmable Know-How and Collaborative IP Marketplace
+
+Q4 2024: - Token Launch
+         - Testnet Integration with Programmable IP License (PIL) on Licensing Module
+         - Development for Royalties module with PIL.
+
+Q1 2025: - IP Pool Introduction ( with stakes in Royalties & REIV Tokens)
+         - IP Assets Expansion to Scriptwriting, Algorithms, AI Models, Web3 Frameworks, Coaches. 
+         - Roadshows and Workshops on Programmable Know-Hows to creators in Web2.5 space.
+         
+Q2 2025: - AI Self-Advisory introduction
+         - IP Pool new features on buying/trading.
+
+         
 
 
 ## Conclusion <a name="conclusion"></a>
